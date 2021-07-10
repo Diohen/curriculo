@@ -1,3 +1,4 @@
-# Leia com atenção:
+### Repositório para armazenamento de currículo CV:
 
-Arquivo para simulação de _commit_ no desenvolvimento de um GIT.
+Este repositório foi criado com o intuito de armazenar meus currículos CV!
+:smile::call_me_hand:
